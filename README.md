@@ -7,4 +7,4 @@
 
 
 
-https://www.d2tz.info/online 사이트 가입 후 API 입력이 필요합니다.
+https://www.d2tz.info/online 사이트 가입 후 API 토큰 입력이 필요합니다.
