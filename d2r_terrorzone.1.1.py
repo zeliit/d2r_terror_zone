@@ -9,8 +9,10 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, ReplyKe
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ============ 사용자 설정 구간 ==============
-API_TOKEN = '5Tksmb6H12jpcASjSbcParniUizP8o7W'
-TELEGRAM_TOKEN = '8272008986:AAFYMjuGIl1q3SCv7d0CQBzp6q65HjC00Gc'
+#d2tz.info 사이트의 API 토큰을 가입 후 넣으세요
+API_TOKEN = ''
+TELEGRAM_TOKEN = ''
+
 # ============================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
