@@ -45,6 +45,7 @@ ZONE_KOR_MAP = {
     "Ancient_Tunnels": "고대 토굴",
     "Maggot_Lair": "구더기 굴", "Arcane_Sanctuary": "비전의 성역", "Harem": "하렘", "Palace_Cellar": "궁전 지하",
     "Tal_Rashas_Tomb": "탈 라샤의 무덤", "Tal_Rashas_Chamber": "탈 라샤의 방(듀리얼)",
+    "Duriels_Lair": "듀리엘의 방","Canyon_of_The_Magi":"신비술사의 협곡",
 
     #ACT3
     "Spider_Forest": "거미 숲", "Arachnid_Lair": "독거미 둥지", "Spider_Cavern": "거미 동굴", "Great_Marsh": "거대 습지",
@@ -65,14 +66,6 @@ ZONE_KOR_MAP = {
     "Nihlathaks_Temple": "니흘라탁의 사원", "Halls_of_Vaught": "전당(나락)", "Ancients_Way": "고대인의 길",
     "Halls_of_Anguish": "고뇌의 전당", "Halls_of_Pain":"고통의 전당",
     "Icy_Cellar": "얼음 지하실", "Worldstone_Keep": "세계석 성채", "Throne_of_Destruction": "파괴의 왕좌", "Worldstone_Chamber": "세계석 보관실(바알)"
-}
-
-ACT_DATA = {
-    "ACT I": ["핏빛 황무지, 악의 소굴", "차디찬 평야, 동굴", "매장지, 묘실, 영묘", "바위 벌판, 트리스트럼", "어둠숲, 지하 통로", "검은 습지, 구렁, 잊힌 탑(백작)", "감옥, 병영", "카타콤(안다)", "카우방"],
-    "ACT II": ["하수도", "메마른 언덕, 죽음의 홀", "먼 오아시스, 구더기 굴", "잊힌 도시, 뱀의 골짜기", "비전의 성역, 하렘, 궁전 지하", "탈 라샤의 무덤(듀리얼)"],
-    "ACT III": ["거미 숲, 거미 동굴", "거대 습지", "약탈자 밀림, 소굴, 습한 구덩이", "쿠라스트 시장, 둑길, 하부", "트라빈칼", "증오의 억류지(메피)"],
-    "ACT IV": ["평원 외곽, 절망의 평원", "불길의 강, 저주받은 도시", "혼돈의 성역(디아)"],
-    "ACT V": ["핏빛 언덕, 혹한의 고산지", "아리앗 고원, 아케론의 구덩이", "수정 동굴, 얼어붙은 강", "빙하의 길, 부랑자의 동굴", "고대인의 길, 얼음 지하실", "니흘라탁의 사원(나락)", "세계석 성채, 파괴의 왕좌(바알)"]
 }
 
 # --- 헬퍼 함수 ---
