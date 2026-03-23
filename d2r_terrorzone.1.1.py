@@ -9,10 +9,9 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, ReplyKe
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ============ 사용자 설정 구간 ==============
-#d2tz.info 사이트의 API 토큰을 가입 후 넣으세요
+#https://www.d2tz.info/online 사이트 가입 후 API 입력
 API_TOKEN = ''
 TELEGRAM_TOKEN = ''
-
 # ============================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -37,10 +36,11 @@ ZONE_KOR_MAP = {
     "Burial_Grounds": "매장지", "Crypt": "묘실", "Mausoleum": "영묘", "Stony_Field": "바위 벌판",
     "Dark_Wood": "어둠숲", "Underground_Passage": "지하 통로", "Black_Marsh": "검은 습지", "Hole": "구렁",
     "Forgotten_Tower": "잊힌 탑(백작)", "Jail": "감옥", "Catacombs": "카타콤(안다)", "Tristram": "트리스트럼",
+    "Cathedral":"대성당", "Inner_Cloister":"내부 회랑", "Barracks" : "병영",
     "Moo_Moo_Farm": "카우방", "Secret Cow Level": "카우방",
 
     #ACT2
-    "Sewers": "하수도", "Dry_Hills": "메마른 언덕", "Halls_of_the_Dead": "죽음의 홀", "Far_Oasis": "먼 오아시스",
+    "Lut_Gholein_Sewers": "ACT2 하수도", "Dry_Hills": "메마른 언덕", "Halls_of_the_Dead": "죽음의 홀", "Far_Oasis": "먼 오아시스",
     "Lost_City": "잊힌 도시", "Valley_of_Snakes": "뱀의 골짜기", "Claw_Viper_Temple": "발톱 독사 사원",
     "Ancient_Tunnels": "고대 토굴",
     "Maggot_Lair": "구더기 굴", "Arcane_Sanctuary": "비전의 성역", "Harem": "하렘", "Palace_Cellar": "궁전 지하",
