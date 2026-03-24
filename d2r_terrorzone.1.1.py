@@ -37,7 +37,7 @@ ZONE_KOR_MAP = {
     "Dark_Wood": "어둠숲", "Underground_Passage": "지하 통로", "Black_Marsh": "검은 습지", "Hole": "구렁",
     "Forgotten_Tower": "잊힌 탑(백작)", "Jail": "감옥", "Catacombs": "카타콤(안다)", "Tristram": "트리스트럼",
     "Cathedral":"대성당", "Inner_Cloister":"내부 회랑", "Barracks" : "병영",
-    "Moo_Moo_Farm": "카우방", "Secret Cow Level": "카우방",
+    "Moo_Moo_Farm": "카우방", "Secret_Cow_Level": "카우방",
 
     #ACT2
     "Lut_Gholein_Sewers": "ACT2 하수도", "Dry_Hills": "메마른 언덕", "Halls_of_the_Dead": "죽음의 홀", "Far_Oasis": "먼 오아시스",
