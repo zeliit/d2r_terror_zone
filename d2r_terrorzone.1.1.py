@@ -52,6 +52,7 @@ ZONE_KOR_MAP = {
     "Spider_Forest": "거미 숲", "Arachnid_Lair": "독거미 둥지", "Spider_Cavern": "거미 동굴", "Great_Marsh": "거대 습지",
     "Flayer_Jungle": "약탈자 밀림", "Flayer_Dungeon": "약탈자 소굴", "Lower_Kurast": "하부 쿠라스트", "Swampy_Pit": "습한 구덩이",
     "Kurast_Bazaar": "쿠라스트 시장", "Kurast_Causeway": "쿠라스트 둑길", "Kurast_Sewers": "하수도",
+    "Disused_Reliquary":"버려진 성물실","Ruined_Fane":"허물어진 교회당",
     "Ruined_Temple": "버려진 유적", "Disused_Fane": "버려진 성소", "Forgotten_Reliquary": "잊힌 유적",
     "Forgotten_Temple": "잊힌 사원", "Travincal": "트라빈칼", "Durance_of_Hate": "증오의 억류지(메피)",
 
@@ -62,7 +63,7 @@ ZONE_KOR_MAP = {
     #ACT5
     "Bloody_Foothills": "핏빛 언덕","Abaddon": "나락",
     "Frigid_Highlands": "혹한의 고산지", "Arreat_Plateau": "아리앗 고원", "Pit_of_Acheron": "아케론의 구덩이",
-    "Crystalline_Passage": "수정 동굴",
+    "Crystalline_Passage": "수정 동굴", "Frozen_Tundra": "얼어붙은 동토","Infernal_Pit":"지옥불 구덩이",
     "Frozen_River": "얼어붙은 강", "Glacial_Trail": "빙하의 길", "Drifter_Cavern": "부랑자의 동굴",
     "Nihlathaks_Temple": "니흘라탁의 사원", "Halls_of_Vaught": "전당(나락)", "Ancients_Way": "고대인의 길",
     "Halls_of_Anguish": "고뇌의 전당", "Halls_of_Pain":"고통의 전당",
